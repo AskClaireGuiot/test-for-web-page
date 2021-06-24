@@ -7,6 +7,6 @@
     <title>This is index.md</title>
 </head>
 <body>
-    <p>This is a test file</p>
+    <p>This is index.md</p>
 </body>
 </html>
